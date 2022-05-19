@@ -1,0 +1,10 @@
+body{
+   
+    text-align: center;
+    text-decoration: solid;
+}form{
+    border: 2px solid rgb(84, 59, 85);
+}
+.img{
+    border-radius: 2px solid black;
+}
